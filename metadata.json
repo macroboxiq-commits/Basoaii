@@ -1,0 +1,8 @@
+{
+  "name": "Baso AI",
+  "description": "Modern personal AI assistant with multilingual support (Kurdish Sorani, Arabic, English), futuristic chat UI, and clean modular architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
